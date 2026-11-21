@@ -12,7 +12,6 @@ Data Science student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya. I w
 **Tools**
 
 - [cek-kelas-its](https://github.com/0xRafie/cek-kelas-its): browser extension that lists the participants of a class in myITS Academics
-- [nextslide](https://github.com/0xRafie/nextslide): agent skill that builds HTML slide decks
 - [agent-notification-sound](https://github.com/0xRafie/agent-notification-sound): one notification setup for several coding agents
 
 **Teaching**
